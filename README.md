@@ -2,7 +2,7 @@
 
 Given the following nested collection:
 
-```
+```ruby
 pokemon =
 [
   {
